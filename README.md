@@ -8,3 +8,5 @@ Instruction:
 4)Incase of error and want to change all the fields,click onn clear form button to clear all fields.
 
 thank you!
+
+To find your Logging ID: Go to inspect --> console -->your ID should be visible.
